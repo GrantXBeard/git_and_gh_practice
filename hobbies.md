@@ -1,0 +1,3 @@
+Collecting records
+DJing
+Painting
